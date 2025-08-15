@@ -20,3 +20,5 @@ Voting Ensemble | Introduction and Core Idea | Part 1
 Voting Ensemble | Classification | Voting Classifier | Hard Voting Vs Soft Voting | Part 2
 Voting Ensemble | Regression | Part 3
 Adaboost
+Agglomerative Hierarchical Clustering | Python Code Example
+
