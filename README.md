@@ -21,4 +21,4 @@ Voting Ensemble | Classification | Voting Classifier | Hard Voting Vs Soft Votin
 Voting Ensemble | Regression | Part 3
 Adaboost
 Agglomerative Hierarchical Clustering | Python Code Example
-
+XGBoost
