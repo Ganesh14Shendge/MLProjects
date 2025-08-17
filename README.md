@@ -22,3 +22,4 @@ Voting Ensemble | Regression | Part 3
 Adaboost
 Agglomerative Hierarchical Clustering | Python Code Example
 XGBoost
+ROC-AUC
