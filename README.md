@@ -10,7 +10,7 @@ Logistic Regression Part 5 | Gradient Descent & Code From Scratch
 Accuracy and Confusion Matrix | Type 1 and Type 2 Errors | Classification Metrics Part 1
 Softmax Regression || Multinomial Logistic Regression | Logistic Regression Part 6
 Polynomial Features in Logistic Regression | Non-Linear Logistic Regression | Logistic Regression Part 7
-Logistic Regression Hyperparameters | Logistic Regression Part 8
+Logistic Regression Hyperparameters | Logistic Regression Part 8  
 Decision Trees Geometric Intuition | Entropy | Gini impurity | Information Gain
 Decision Trees - Hyperparameters | Overfitting and Underfitting in Decision Trees
 Regression Trees | Decision Trees Part 3
