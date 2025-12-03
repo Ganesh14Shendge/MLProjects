@@ -1,4 +1,4 @@
-Lasso Regression | Intuition and Code Sample 
+Lasso Regression | Intuition and Code Sample  
 Why Lasso Regression creates sparsity? 
 ElasticNet Regression | Intuition and Code Example | Regularized Linear Models
 Logistic Regression Part 1 | Perceptron Trick  
