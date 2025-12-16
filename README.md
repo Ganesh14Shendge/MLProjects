@@ -15,7 +15,7 @@ Decision Trees Geometric Intuition | Entropy | Gini impurity | Information Gain
 Decision Trees - Hyperparameters | Overfitting and Underfitting in Decision Trees 
 Regression Trees | Decision Trees Part 3 
 Awesome Decision Tree Visualization using dtreeviz library 
-Introduction to Ensemble Learning | Ensemble Techniques in Machine Learning
+Introduction to Ensemble Learning | Ensemble Techniques in Machine Learning 
 Voting Ensemble | Introduction and Core Idea | Part 1
 Voting Ensemble | Classification | Voting Classifier | Hard Voting Vs Soft Voting | Part 2
 Voting Ensemble | Regression | Part 3
